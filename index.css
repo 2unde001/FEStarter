@@ -1,0 +1,29 @@
+.form-control{
+  margin-top: 300px;
+
+}
+
+.view{
+  background-image: url("images/bighousebluesky.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  background-attachment: fixed;
+}
+
+.snowBackground{
+  background: #FAFAFA;
+}
+
+h1{
+  text-align: center;
+}
+
+h3{
+  margin:50px;
+}
+
+
+hr{
+  border: 1px solid red;
+}
