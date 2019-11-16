@@ -1,6 +1,5 @@
 .form-control{
   margin-top: 300px;
-
 }
 
 .view{
@@ -10,9 +9,19 @@
   height: 600px;
   background-attachment: fixed;
 }
+.row{
+  margin: 100px;
+}
 
+#search{
+  font-size:1.0rem;
+  }
 .snowBackground{
   background: #FAFAFA;
+}
+
+.card{
+  margin-top: 20px;
 }
 
 h1{
